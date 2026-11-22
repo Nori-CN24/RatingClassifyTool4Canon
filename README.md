@@ -103,3 +103,8 @@ python _selftest.py
 - 默认是**移动**，不确定先跑 `--dry-run`；
 - 只认 `.jpg` / `.jpeg` / `.cr3`，大小写不敏感；
 - 同名冲突自动加 `_1`，不会覆盖原文件。
+
+## 许可
+
+- 本工具（RatingClassifyTool4Canon）以 [MIT License](LICENSE) 发布，Copyright (c) 2026 Nori。
+- 随包 / 可选依赖的 [ExifTool](https://exiftool.org/) 由 Phil Harvey 开发，按 **Perl 同款双许可**发布：Artistic License 1.0 或 GNU GPL（见其发行包内 `LICENSE`）。本项目只是以命令行子进程方式调用 ExifTool，没有修改或链接它的代码，不构成衍生作品，所以本工具用 MIT 没有问题；分发包含 ExifTool 的打包版时，保留 `exiftool\exiftool_files\LICENSE` 等许可证文件即可。
