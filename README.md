@@ -96,7 +96,7 @@ python _selftest.py
 
 ## 打包版
 
-不用 Python 的版本在 [Releases](../../releases)：下载 `RatingClassifyTool4Canon-发布.zip`，解压后双击 `RatingClassifyTool4Canon.exe` 即可（Windows x64）。
+不用 Python 的版本在 [Releases](../../releases)：下载 `RatingClassifyTool4Canon-v1.0.0-win64.zip`，解压后双击 `RatingClassifyTool4Canon.exe` 即可（Windows x64）。
 
 ## 注意
 
